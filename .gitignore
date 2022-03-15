@@ -1,0 +1,11 @@
+/MDK-ARM/stm32g030f6DevBoard
+/EWARM/*.dep
+/EWARM/stm32g030f6DevBoard/List
+/EWARM/stm32g030f6DevBoard/Obj
+/EWARM/stm32g030f6DevBoard/Exe
+/EWARM/settings
+/MDK-ARM/*.Roger
+/MDK-ARM/*.FD_Roger
+/MDK-ARM/JLinkLog.txt
+STM32G0xx_HAL_Driver
+BrowseInfo
